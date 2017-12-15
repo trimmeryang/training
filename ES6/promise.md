@@ -16,7 +16,7 @@ doSomething().then(doSomethingElse());
 doSomething().then(doSomethingElse);
 ```
 
-## 问题2
+## 问题2 （自己建个基于express4的项目， 然后订单数据在40.26的elasticsearch上）
 有一组order
 ```js
 let orders = ['1006385232', '1005700831', '1005441686'];
